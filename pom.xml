@@ -207,5 +207,10 @@
 			<artifactId>log4j-over-slf4j</artifactId>
 			<version>1.7.6</version>
 		</dependency>
+		 <dependency>
+      <groupId>com.lesstif</groupId>
+      <artifactId>jira-rest-api</artifactId>
+      <version>EDIT_THIS</version>
+    </dependency>
 	</dependencies>
 </project>
